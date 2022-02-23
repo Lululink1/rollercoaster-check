@@ -17,6 +17,7 @@ while running:
     #Get inputs
     os.system('cls')
     print("Rollercoaster-check™")
+
     age = int(input("Voer leeftijd in: "))
     height = int(input("Voer lengte in: "))
 
